@@ -28,4 +28,9 @@
 - PHP
 - NoSQL
 - SQL
+
+## Projects i can be accredited to:
+- Breading
+- wpii
+- probably more soon ill just update it
 </details>
