@@ -1,4 +1,4 @@
-## $${\color{white}Czozi}$$
+# Czozi :3
 - 5 years of Web Development experience
 - 3 years of Node.JS experience
 - Head of the Czozi Coding Club
